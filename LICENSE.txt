@@ -1,0 +1,23 @@
+----------------------------------------------
+            LICENÇA DE USO DO SOFTWARE
+----------------------------------------------
+
+DIREITOS AUTORAIS
+
+TODOS OS DIREITOS RESERVADOS.
+
+PERMISSÃO DE USO:
+
+O Criador deste software concede permissão, de forma gratuita, a qualquer pessoa que obtiver uma cópia deste software e dos arquivos de documentação associados, para utilizar o software sem restrição, incluindo, sem limitação, os direitos de usar, copiar, modificar e mesclar.
+
+PROIBIÇÕES:
+
+1. Redistribuição: Você NÃO pode distribuir cópias do software a terceiros, publicar o software para acesso público ou distribuir o software como se fosse de sua autoria ou propriedade.
+
+2. Uso comercial: Você NÃO pode vender ou revender este software.
+
+ISENÇÃO DE RESPONSABILIDADE:
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIABILIDADE, ADEQUAÇÃO A UM PROPÓSITO PARTICULAR E NÃO VIOLAÇÃO. EM NENHUM CASO, O CRIADOR SERÁ RESPONSÁVEL POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, DELITO OU DE OUTRA FORMA, DECORRENTE DE, OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE. O CRIADOR NÃO ASSUME NENHUMA RESPONSABILIDADE POR DANOS FINANCEIROS OU QUALQUER OUTRO TIPO DE PERDA RESULTANTE DO USO DESTE SOFTWARE.
+
+----------------------------------------------
