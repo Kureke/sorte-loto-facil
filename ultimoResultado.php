@@ -1,0 +1,1 @@
+<?php $globalUltimoResultado = '1 5 7 8 10 11 12 13 14 15 16 18 20 22 25';
